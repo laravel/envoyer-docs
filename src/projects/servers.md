@@ -34,7 +34,7 @@ If your server is configured to run multiple versions of PHP, you may find that 
 
 ### Non-Standard PHP Services
 
-Some VPS providers run custom versions of Ubuntu that manage PHP services in a variety of ways that are not typical. If Envoyer is not able to correctly identify and reload the correct PHP service, you will need to disable the **Reload FPM After Deployments** setting and create a custom [Deployment Hook](/1.0/projects/deployment-hooks.html) that reloads the correct service.
+Some VPS providers run custom versions of Ubuntu that manage PHP services in a variety of ways that are not typical. If Envoyer is not able to correctly identify and reload the correct PHP service, you will need to disable the **Reload FPM After Deployments** setting and create a custom [Deployment Hook](/projects/deployment-hooks) that reloads the correct service.
 
 ## Importing Laravel Forge Servers
 
