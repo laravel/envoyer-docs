@@ -72,6 +72,7 @@ export default defineConfigWithTheme<ThemeConfig>({
                 text: "Getting Started",
                 items: [
                     { text: 'Introduction', link: '/introduction' },
+                    { text: 'Quick Start', link: '/quick-start'},
                 ],
             },
             {
