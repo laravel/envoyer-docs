@@ -4,7 +4,7 @@
 
 ## What Is Envoyer?
 
-Laravel Envoyer is a zero downtime deployment service for PHP. Some highlights of Envoyer's features include:
+[Envoyer](https://envoyer.io) is a zero downtime deployment service for PHP. Some highlights of Envoyer's features include:
 
 - GitHub, GitLab & Bitbucket Integration
 - GitLab Self-Hosted Integration
@@ -20,9 +20,20 @@ Laravel Envoyer is a zero downtime deployment service for PHP. Some highlights o
 - Customize Your Deployments
 - Import Your [Laravel Forge](https://forge.laravel.com) Servers
 
-## Learning More
+## Video Series
 
-Laracasts has a comprehensive and **free** [video course](https://laracasts.com/series/envoyer) on Envoyer. Feel free to review this course if you are new to Laravel Envoyer and want a video overview of its features.
+Laracasts has a comprehensive and [free video course](https://laracasts.com/series/envoyer) on Envoyer. Feel free to review this course if you are new to Laravel Envoyer and want a video overview of its features.
+
+## Forge Integration
+
+[Laravel Forge](https://forge.laravel.com) now offers a first-party integration with Envoyer. [Learn more](https://blog.laravel.com/forge-zero-downtime-deployments).
+
+![Laravel Forge x Envoyer](/img/forge-envoyer-integration-header.png)
+
+## Account Creation
+
+To get started with Envoyer, you must [first create an account](https://envoyer.io/auth/register). If you are just collaborating with others on their projects, you are not required to have an Envoyer subscription.
+To create and manage your own projects, you will need an Envoyer subscription.
 
 ## Envoyer IP Addresses
 
