@@ -4,7 +4,7 @@
 
 ## Overview
 
-This section provides a step-by-step guide to configure your application and infrastructure for zero-downtime deployments with Envoyer.
+This section provides a step-by-step guide to configure your application and infrastructure for zero downtime deployments with Envoyer.
 
 There are four simple and intuitive steps to get started.
 
@@ -54,7 +54,7 @@ Don't worry if you're not using Forge; you may configure your server manually. S
 ![Manual Import](img/import-manual.png)
 ## Deployments
 
-The final part of your journey to zero-downtime deployments is configuring what should happen during the deployment itself.
+The final part of your journey to zero downtime deployments is configuring what should happen during the deployment itself.
 
 Envoyer provides a lot of flexibility and control over your deployments - you can read more about that in the [hooks](/projects/deployment-hooks.html) section, but for your first deployment, there are only two things to consider.
 
@@ -82,4 +82,4 @@ With these steps complete, you may deploy your project by clicking the "Deploy" 
 
 Envoyer will attempt to connect to each server and clone the code of the chosen branch or tag of the configured repository into a new release directory. Next, Composer dependencies are installed before the symlink is updated, making the new release live.
 
-**Congratulations, you've just successfully completed your first zero-downtime deployment.**
+**Congratulations, you've just successfully completed your first zero downtime deployment.**
