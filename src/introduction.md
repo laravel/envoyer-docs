@@ -46,7 +46,7 @@ You may also need to whitelist the [Heartbeat IP addresses](/projects/heartbeats
 
 ## Envoyer API
 
-Envoyer provides a powerful API that allows you to manage your servers programatically, providing access to the vast majority of Envoyer features. You can find the Envoyer API documentation [here](https://envoyer.io/api-documentation).
+Envoyer provides a powerful API that allows you to manage your servers programmatically, providing access to the vast majority of Envoyer features. You can find the Envoyer API documentation [here](https://envoyer.io/api-documentation).
 
 ## Found Something Wrong?
 

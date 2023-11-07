@@ -8,7 +8,7 @@ Envoyer can optionally notify you after a deployment completes and inform you wh
 
 ## Channels
 
-Envoyer supports a variety of notification channels and you are welcome to configure multiple channels for your project:
+Envoyer supports a variety of notification channels, and you are welcome to configure multiple channels for your project:
 
 - Slack
 - Email
