@@ -10,6 +10,10 @@ export default defineConfigWithTheme<ThemeConfig>({
     cleanUrls: false,
     srcDir: 'src',
 
+    sitemap: {
+        hostname: 'https://docs.envoyer.io',
+    },
+
     head: [
         ['link', {
             rel: 'apple-touch-icon',
